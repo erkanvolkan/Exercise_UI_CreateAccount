@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exercise_UI_CreateAccount</string>
+    <string name="email_address">Email Address</string>
+    <string name="et_email" />
+    <string name="create_password">Create Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="see_creteria_below">See Creteria Below</string>
+    <string name="request_a_rescue_online">Request a rescue online</string>
+    <string name="greenflag_customer_can_ncreate_an_account_to_access">GreenFlag customer can\ncreate an account to access</string>
+    <string name="tick">tick</string>
+    <string name="policy_information">Policy information</string>
+    <string name="tickk">tickk</string>
+    <string name="car_health_updates">Car health updates</string>
+    <string name="tick2">tick2</string>
+    <string name="logo">logo</string>
+    <string name="create_an_account">Create an account</string>
+</resources>
